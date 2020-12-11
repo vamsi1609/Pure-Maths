@@ -1,2 +1,2 @@
 # Mathematics
-This repo contains advance mathematical tools
+This repo contains advance computational tools
